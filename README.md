@@ -67,9 +67,9 @@ Predictions:
 **Cat (88.6% confidence)**  
 **Invalid image (not a cat or dog)**
 
-![Output 1](Output%20CNN/output1.png)  
-![Output 2](Output%20CNN/output2.png)  
-![Output 3](Output%20CNN/output3.png)
+![Output 1](Output%20CNN/output1.png.png)  
+![Output 2](Output%20CNN/output2.png.png)  
+![Output 3](Output%20CNN/output3.png.png)
 
 ---
 
