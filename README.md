@@ -62,16 +62,17 @@ It contains labeled pet images with various breeds. Labels were simplified as:
 
 🖼 **Example Output**
 
+🖼 **Example Output**
+
 Predictions:  
 **Dog (91.2% confidence)**  
 **Cat (88.6% confidence)**  
 **Invalid image (not a cat or dog)**
 
-![Output 1](Output%20CNN/output1.png.png)  
-![Output 2](Output%20CNN/output2.png.png)  
-![Output 3](Output%20CNN/output3.png.png)
+![Output 1](./output%20CNN/output1.png)  
+![Output 2](./output%20CNN/output2.png)  
+![Output 3](./output%20CNN/output3.png)
 
----
 
 ✅ **Requirements**
 
