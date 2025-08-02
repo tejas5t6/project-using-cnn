@@ -1,5 +1,5 @@
-# project-using-cnn
-Cat vs Dog Classifier using CNN with MobileNetV2 
+# Project-using-cnn
+ 
 # 🐾 Cat vs Dog Classifier using CNN MobileNetV2
 
 📌 **Project Overview**  
