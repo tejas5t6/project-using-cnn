@@ -1,6 +1,6 @@
 # project-using-cnn
-Cat vs Dog Classifier using CNN with MobileNetV2 + Data Augmentation 
-# 🐾 Cat vs Dog Classifier using MobileNetV2
+Cat vs Dog Classifier using CNN with MobileNetV2 
+# 🐾 Cat vs Dog Classifier using CNN MobileNetV2
 
 📌 **Project Overview**  
 This project performs binary image classification to distinguish between cats and dogs using **MobileNetV2** as the base model. It was built and trained in **Google Colab** using the **Oxford IIIT Pet dataset**, with a user-friendly **Gradio interface** that supports webcam and image uploads.
