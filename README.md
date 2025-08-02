@@ -60,10 +60,16 @@ It contains labeled pet images with various breeds. Labels were simplified as:
 
 🖼 **Example Output**
 
-Prediction:  
-**Dog (91.2% confidence)**  
+🖼 **Example Output**
 
-Confusion matrix and plots shown in notebook.
+Predictions:  
+**Dog (91.2% confidence)**  
+**Cat (88.6% confidence)**  
+**Invalid image (not a cat or dog)**
+
+![Output 1](Output%20CNN/output1.png)  
+![Output 2](Output%20CNN/output2.png)  
+![Output 3](Output%20CNN/output3.png)
 
 ---
 
