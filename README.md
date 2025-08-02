@@ -60,10 +60,6 @@ It contains labeled pet images with various breeds. Labels were simplified as:
 
 🖼 **Example Output**
 
-🖼 **Example Output**
-
-🖼 **Example Output**
-
 Predictions:  
 **Dog (91.2% confidence)**  
 **Cat (88.6% confidence)**  
